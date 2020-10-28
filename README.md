@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### check out my svelte projects!
+#### working towards a diploma of IT (CoderAcademy)
+
 <!--
 **mo-ccc/mo-ccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
