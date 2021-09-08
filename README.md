@@ -1,8 +1,6 @@
 # About me
 - Diploma of IT graduate from the Academy of Information Technology 😊
-- Super passionate about tech 🚀
-- Master of Python 😎
-- DevOps and Cloud enthusiast ☁
+- DevOps, Cyber-Security and Cloud enthusiast ☁
 
 <!--
 **mo-ccc/mo-ccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
